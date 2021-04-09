@@ -7,10 +7,10 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Abdulrahman-Khalid&label=Profile%20views&color=0e75b6&style=flat"/>
 [![Repos Badge](https://badges.pufler.dev/repos/Abdulrahman-Khalid)](https://badges.pufler.dev)
 [![Most Active GitHub User Rank](https://enkuarsfhe5r9xs.m.pipedream.net)](https://commits.top/egypt.html)
 [![Years Badge](https://badges.pufler.dev/years/Abdulrahman-Khalid)](https://badges.pufler.dev)
+<img src="https://komarev.com/ghpvc/?username=Abdulrahman-Khalid&label=Profile%20views&color=0e75b6&style=flat"/>
 
 </div>
 
