@@ -1,16 +1,16 @@
 <p align="center">
-
+<!-- gif after being senior-->
+<!--   <img src="https://media3.giphy.com/media/QHE5gWI0QjqF2/giphy.gif?cid=ecf05e47no7p0yxzg1sm6ad43msjj8hjpooer5aiged2gqzr&rid=giphy.gif" alt="Cool Coder" width="500" height="400"> -->
   <img src="https://media4.giphy.com/media/a8rlSHPozsTEuh1ibJ/giphy.gif?cid=ecf05e476umzs498gr14l6b9p6mw6f6tsxaze0k9m31qdkxh&rid=giphy.gif" alt="Cool Coder" width="500" height="400">
   
 </p>
 
 <div align="center">
 
-[![Years Badge](https://badges.pufler.dev/years/Abdulrahman-Khalid)](https://badges.pufler.dev)
-[![Most Active GitHub User Rank](https://enkuarsfhe5r9xs.m.pipedream.net)](https://commits.top/egypt.html)
-[![Repos Badge](https://badges.pufler.dev/repos/Abdulrahman-Khalid)](https://badges.pufler.dev)
 <img src="https://komarev.com/ghpvc/?username=Abdulrahman-Khalid&label=Profile%20views&color=0e75b6&style=flat"/>
-
+[![Repos Badge](https://badges.pufler.dev/repos/Abdulrahman-Khalid)](https://badges.pufler.dev)
+[![Most Active GitHub User Rank](https://enkuarsfhe5r9xs.m.pipedream.net)](https://commits.top/egypt.html)
+[![Years Badge](https://badges.pufler.dev/years/Abdulrahman-Khalid)](https://badges.pufler.dev)
 
 </div>
 
