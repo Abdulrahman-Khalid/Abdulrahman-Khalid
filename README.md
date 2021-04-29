@@ -90,3 +90,22 @@
 </p>
 <br><br>
 
+## Selected Projects
+
+### Web/Mobile Applications
+
+<div>
+    <a href="https://github.com/Abdulrahman-Khalid/nabd-react-native">
+        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Khalid&repo=nabd-react-native&theme=vue" />
+    </a>
+    <a href="https://github.com/mido3ds/match-reservation-system">
+        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=mido3ds&repo=match-reservation-system&theme=vue" />
+    </a>
+    <a href="https://github.com/shadyfahmy/spidey-search-engine">
+        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=shadyfahmy&repo=spidey-search-engine&theme=vue" />
+    </a>
+    <a href="https://github.com/aymanElakwah/kwikker-frontend">
+        <img style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=aymanElakwah&repo=kwikker-frontend&theme=vue" />
+    </a>
+</div>
+<br><br>
