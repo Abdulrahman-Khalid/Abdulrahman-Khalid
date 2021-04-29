@@ -81,11 +81,9 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=abdulrahman-khalid&show_icons=true&theme=vue" alt="Abdulrahman's github stats">
-    <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahman-khalid&" alt="abdulrahman-khalid" />
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman-khalid&layout=compact&theme=vue" style="padding: 15px" />
-    <br><br>
     <img src="https://github-profile-trophy.vercel.app/?username=abdulrahman-khalid&margin-w=15" />
 </p>
 <br><br>
