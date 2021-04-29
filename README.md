@@ -77,8 +77,18 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 
-  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Abdulrahman-Khalid&show_icons=true&theme=radical)
-
 </div>
+
+## GitHub Summary
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=abdulrahman-khalid&show_icons=true&theme=vue" alt="Abdulrahman's github stats">
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman-khalid&layout=compact&theme=vue" style="padding: 15px" />
+    <br><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=abdulrahman-khalid&margin-w=15" />
+    <br><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahman-khalid&" alt="abdulrahman-khalid" />
+</p>
+<br><br>
 
