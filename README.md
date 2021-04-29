@@ -35,9 +35,7 @@
     <img align="left" alt="Abdulrahman's gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
   </a>
 </div>
-
-<br />
-<br />
+<br><br>
 
 # <img src="https://media3.giphy.com/media/MxYQrB9jeGzza/giphy.gif?cid=ecf05e47ba7e0bedykjg8jetljvnl4fad4ulmz53pmdcd8gu&rid=giphy.gif" width="50" draggable="false" > About me
 
